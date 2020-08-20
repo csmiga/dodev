@@ -1,0 +1,33 @@
+127.0.0.1        localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1              localhost ip6-localhost ip6-loopback
+ff02::1          ip6-allnodes
+ff02::2          ip6-allrouters
+
+
+################################################################################
+# TSUNG NODES
+
+10.1.146.112    tsungController
+10.1.146.145    tsungWorker1
+10.1.147.225    tsungWorker2
+10.1.148.34     tsungWorker3
+10.1.146.209    tsungWorker4
+10.1.147.145    tsungWorker5
+10.1.148.4      tsungWorker6
+10.1.146.161    tsungWorker7
+10.1.147.147    tsungWorker8
+10.1.148.161    tsungWorker9
+10.1.146.48     tsungWorker10
+10.1.147.227    tsungWorker11
+10.1.148.129    tsungWorker12
+10.1.146.195    tsungWorker13
+10.1.147.49     tsungWorker14
+10.1.148.97     tsungWorker15
+10.1.148.33     tsungWorker16
+10.1.148.67     tsungWorker17
+10.1.148.165    tsungWorker18
+10.1.148.177    tsungWorker19
+10.1.148.51     tsungWorker20
+
